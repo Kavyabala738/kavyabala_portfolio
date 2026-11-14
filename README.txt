@@ -34,3 +34,4 @@ BEFORE SUBMITTING
 - The design uses Google Fonts when internet is available; fallback fonts are included.
 
 This is a starter portfolio project for the HTML5 Semantic Structure & Accessibility task.
+Portfolio website deployment update
